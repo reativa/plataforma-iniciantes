@@ -15,6 +15,12 @@ const plugins = [
   'gatsby-plugin-remove-trailing-slashes',
   'gatsby-plugin-react-helmet',
   {
+    resolve: `gatsby-plugin-facebook-pixel`,
+    options: {
+      pixelId: "2374911412821725",
+    },
+  },
+  {
     resolve: 'gatsby-source-filesystem',
     options: {
       name: 'docs',

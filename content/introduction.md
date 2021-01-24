@@ -18,8 +18,8 @@ Sem restrição alguma, para todas as pessoas que quiserem aprender! 😉
 
 ## Você topa aprender comigo?
 
-Se tiver qualquer dúvida (ou sugestões) me envie no [Instagram](http://bit.ly/reativa-insta), faço mentoria coletiva (gratuita) diariamente para programadores iniciantes que se sentem perdidos, você será extremamente bem vindo por lá (é só clicar na imagem).
+Se tiver qualquer dúvida (ou sugestões) me envie no [Instagram](http://bit.ly/reativa-insta), faço mentoria coletiva (gratuita) diariamente para programadores iniciantes que se sentem perdidos, você será extremamente bem vindo por lá.
 
-[![Mentoria Gratuita](https://media-exp1.licdn.com/dms/image/C4E22AQGUm3Wut1HqEw/feedshare-shrink_1280-alternative/0/1610111408337?e=1613001600&v=beta&t=y9-KZUtNlwfTLPFzAIynIL9dVZCFqV7t94z65ApC0CY)](http://bit.ly/reativa-insta)
+Também temos um [Grupo no Discord](https://bit.ly/discord-reativa) 🤓 entra lá!
 
 CHEGA DE PAPO, bora pra ação! 👇👇👇
