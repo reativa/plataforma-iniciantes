@@ -8,6 +8,10 @@ metaDescription: "O caminho para se tornar desenvolvedor web"
 
 https://www.youtube.com/watch?v=Fvewtu9r4b4
 
+> Dica: Assista na **velocidade de 2x** 😉
+
+**Se a velocidade de 2x é pouco para você, instale a extensão [Video Speed Controller](http://bit.ly/2YjPJn2) e acelere ainda mais!**
+
 Resumo da Live:
 
 Apresentamos o FreeCodeCamp e demonstramos que qualquer pessoa pode se tornar programadora. Explicamos que programação é acessível a todos, mas que isso não significa que vai ser rápido, mas que definitivamente não é um bicho de sete cabeças impossível de resolver.
