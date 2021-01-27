@@ -1,5 +1,5 @@
 ---
-title: "Live 1"
+title: "Live"
 metaTitle: "Vencendo o FreeCodeCamp"
 metaDescription: "O caminho para se tornar desenvolvedor web"
 ---

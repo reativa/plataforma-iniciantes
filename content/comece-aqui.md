@@ -4,11 +4,7 @@ metaTitle: "Tutorial para completos iniciantes"
 metaDescription: "iniciantes em programação"
 ---
 
-Se você nunca teve contato com programação, ou ainda é iniciante, existem dois conhecimentos que serao essenciais para você.
-
-👉 Lógica de programação
-
-👉 Inglês
+Se você nunca teve contato com programação, ou ainda é iniciante, existem dois conhecimentos que serao essenciais para você: **Lógica de programação** e **Inglês**.
 
 Em resumo, os passos que vou te propor são os seguintes:
 
