@@ -37,7 +37,7 @@ const config = {
     ignoreIndex: true
   },
   siteMetadata: {
-    title: 'Maratona Programação | Reativa',
+    title: 'Maratona FreeCodeCamp | Reativa',
     description:
       'Reativa Tecnologia - Plataforma Online para desenvolvedores http://iniciantes.reativa.dev ',
     ogImage: null,
