@@ -29,6 +29,7 @@ const config = {
       '/introduction',
       '/comece-aqui',
       '/lives',
+      '/git',
       '/quero-contribuir'
     ],
     collapsedNav: [],
