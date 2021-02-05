@@ -28,7 +28,8 @@ const config = {
     forcedNavOrder: [
       '/introduction',
       '/comece-aqui',
-      '/lives',
+      '/lives', '/lives/1','/lives/2', '/lives/3','/lives/4', '/lives/5','/lives/6', '/lives/',
+      '/lives/7','/lives/8', '/lives/9','/lives/10',
       '/git',
       '/quero-contribuir'
     ],
