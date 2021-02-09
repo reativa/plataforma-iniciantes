@@ -5,7 +5,7 @@ const config = {
   gatsby: {
     pathPrefix: '/',
     siteUrl: 'https://iniciantes.reativa.dev',
-    gaTrackingId: 'UA-155080700-2'
+    gaTrackingId: 'G-BKY124TVV6'
   },
   header: {
     logo:
