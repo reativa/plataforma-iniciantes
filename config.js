@@ -33,8 +33,7 @@ const config = {
       '/quero-contribuir'
     ],
     collapsedNav: [],
-    links: [{ text: 'Reativa Instagram', link: 'http://bit.ly/pauloluan-insta
-' }],
+    links: [{ text: 'Reativa Instagram', link: 'http://bit.ly/pauloluan-insta' }],
     frontline: true,
     ignoreIndex: true
   },

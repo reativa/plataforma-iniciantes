@@ -18,8 +18,7 @@ Sem restrição alguma, para todas as pessoas que quiserem aprender! 😉
 
 ## Você topa aprender comigo?
 
-Se tiver qualquer dúvida (ou sugestões) me envie no [Instagram](http://bit.ly/pauloluan-insta
-), faço mentoria coletiva (gratuita) diariamente para programadores iniciantes que se sentem perdidos, você será extremamente bem vindo por lá.
+Se tiver qualquer dúvida (ou sugestões) me envie no [Instagram](http://bit.ly/pauloluan-insta), faço mentoria coletiva (gratuita) diariamente para programadores iniciantes que se sentem perdidos, você será extremamente bem vindo por lá.
 
 Também temos um [Grupo no Discord](https://bit.ly/discord-reativa) 🤓 entra lá!
 

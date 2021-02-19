@@ -31,6 +31,5 @@ No final citamos o [código-fonte dessa plataforma](https://github.com/reativa/p
 Links úteis adicionais: 
 
 - [Grupo do Discord](https://bit.ly/discord-reativa)
-- [Instagram da Reativa](http://bit.ly/pauloluan-insta
-)
+- [Instagram da Reativa](http://bit.ly/pauloluan-insta)
 - [Youtube do DEV Junior](http://bit.ly/dev-jr-yt)
